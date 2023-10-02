@@ -1,0 +1,17 @@
+문제 :
+Hello
+World를 출력하시오
+(두 줄에 걸쳐 줄을 바꿔 출력)
+
+코드 : 
+package CodeUp100;
+
+public class Problem_1003 {
+    public static void main(String[] args) {
+        System.out.print("Hello\nWorld");
+    }
+}
+
+출력결과 :
+Hello
+World
