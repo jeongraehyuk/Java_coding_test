@@ -1,0 +1,19 @@
+문제 :
+윈도우 운영체제의 파일 경로를 출력하는 연습을 해보자.
+파일 경로에는 특수문자들이 포함된다.
+다음 경로를 출력하시오.
+"C:\Download\hello.cpp"
+(단, 큰따옴표도 함께 출력한다.)
+
+코드 :
+package CodeUp100;
+
+public class Problem_1007 {
+    public static void main(String[] args) {
+        System.out.print("\"C:\\Download\\hello.cpp\"");
+    }
+}
+// \\를 입력해줘야 정상적으로 문자열 \이 출력된다.
+
+출력결과 :
+"C:\Download\hello.cpp"
