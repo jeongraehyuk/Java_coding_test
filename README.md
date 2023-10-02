@@ -5,4 +5,4 @@
 <p> 2) Programmers 코딩 기초 트레이닝 https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc</p>
 <p> 3) Programmers 코딩 테스트 입문 https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc</p>
 <p> 4) Programmers 코딩 테스트 고득점 Kit https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit</p>
-<p> 4) Programmers 코딩 테스트 고득점 Kit[새 탭에서 열기]([https://www.google.com/](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit){:target="_blank"}</p>
+<p> 4) Programmers 코딩 테스트 고득점 Kit<a href="https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit" target="_blank"></p>
