@@ -1,0 +1,12 @@
+문제 : Hello를 출력하시오
+
+코드 :
+package CodeUp100;
+
+public class Problem_1001 {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
+
+출력결과 : Hello
